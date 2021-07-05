@@ -741,7 +741,7 @@ div#mfp_thanks {
 	position:relative;
 	padding:85px 0 0 0;
 	margin:0 auto;
-	background:#f7f4eb;
+	background:url("../img/kv_bg.jpg") center center/cover no-repeat;
 }
 
 .mv .box{
