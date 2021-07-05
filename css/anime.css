@@ -120,14 +120,14 @@
 	-moz-transform: translate(0, 0px);
 	-webkit-transform: translate(0, 0px);
 	-ms-transform: translate(0, 0px);
-	transform: translate(360px, 0px);
+	transform: translate(360px, -50px);
 }
 .a_5 {
 	opacity: 1.0;
 	-moz-transform: translate(0, 0);
 	-webkit-transform: translate(0, 0);
 	-ms-transform: translate(0, 0);
-	transform: translate(240px, 0);
+	transform: translate(240px, -50px);
 }
 
 /*下から

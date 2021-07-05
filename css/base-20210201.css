@@ -134,7 +134,12 @@ header ul li .face{
 /* contents
 -------------------------------------------------------------------*/
 body {
-	overflow:hidden;
+	overflow-y: scroll;
+  -ms-overflow-style: none;    /* IE, Edge 対応 */
+}
+
+body::-webkit-scrollbar{
+	display: none;
 }
 
 .thankspage{
