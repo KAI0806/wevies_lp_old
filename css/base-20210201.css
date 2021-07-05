@@ -38,7 +38,7 @@ header .box{
 	min-width:1000px;
 	top:0;
 	left:0;
-	background:rgba(255,255,255,0.7);
+	background:white;
 	padding:13px 0 10px 40px;
 	box-sizing:border-box;
 	z-index:999;

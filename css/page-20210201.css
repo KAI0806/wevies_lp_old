@@ -11,7 +11,7 @@
 	background-color: #fff;
 	position: fixed;
 	top: 0;
-	bottom:0
+	bottom:0;
 	left: 0;
 	z-index: 9999;
 	transition: all 1s;
@@ -86,9 +86,11 @@
 }
 
 .slide_area .tit{
-	font-size:20px;
+	font-size:65px;
 	line-height:1.2em;
-	padding:0 0 10px 30px;
+	padding-left:30px;
+	margin-bottom: 10px;
+	border-left: 10px solid black;
 	font-weight:normal;
 }
 
@@ -323,7 +325,7 @@
 
 .area_03 .txtbox .img01{
 	position:absolute;
-	left:0;
+	left:-110px;
 	top:30px;
 }
 
