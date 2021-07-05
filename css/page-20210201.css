@@ -710,6 +710,14 @@ div#mfp_thanks {
 	overflow: hidden;
 }
 
+.contact .formrun-embed{
+	width: 90%;
+	margin-left: 0;
+	margin: auto;
+	height: 500px;
+	overflow: hidden;
+}
+
 #loading .img{
 	text-align:center;
 	width:200px;
@@ -805,7 +813,7 @@ div#mfp_thanks {
 }
 
 .area_01 .txtbox .txt03{
-	font-size:18px;
+	font-size:17px;
 	line-height:2em;
 }
 
@@ -824,7 +832,7 @@ div#mfp_thanks {
 }
 
 .area_01 h3{
-	font-size:20px;
+	font-size:18px;
 	font-weight:bold;
 	line-height:1.8em;
 	padding:40px 0;
@@ -1003,7 +1011,7 @@ div#mfp_thanks {
 }
 
 .area_03 .pricebox .img01{
-	max-width:200px;
+	max-width:250px;
 	margin:0 auto;
 }
 
