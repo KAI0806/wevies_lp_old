@@ -214,14 +214,14 @@
 	-moz-transform: translate(0, 0px);
 	-webkit-transform: translate(0, 0px);
 	-ms-transform: translate(0, 0px);
-	transform: translate(0px, 0px);
+	transform: translate(120px, 0px);
 }
 .a_5 {
 	opacity: 1.0;
 	-moz-transform: translate(0, 0);
 	-webkit-transform: translate(0, 0);
 	-ms-transform: translate(0, 0);
-	transform: translate(120px, 0px);
+	transform: translate(0px, 0px);
 }
 
 .anime1 {
