@@ -84,7 +84,7 @@ header .box{
 	min-width:100%;
 	top:0;
 	left:0;
-	background:rgba(255,255,255,0.7);
+	background: white;
 	padding:0;
 	box-sizing:border-box;
 	z-index:999;
