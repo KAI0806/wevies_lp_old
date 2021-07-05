@@ -4,6 +4,15 @@
 	outline:none;
 }
 
+.mv .formrun-embed{
+	width: 70%;
+	margin-left: 30px;
+}
+
+.contact .formrun-embed{
+	width: 750px;
+}
+
 
 #loading {
 	width: 100vw;
@@ -65,8 +74,8 @@
 }
 
 .mv{
-	background:#f7f4eb;
-	padding:100px 20px 0 20px;
+	background: url("../img/kv_bg.jpg") center center/cover no-repeat;
+	padding:100px 20px 30px 20px;
 }
 
 .mv .box{
@@ -74,6 +83,8 @@
 	max-width:1120px;
 	margin:0 auto;
 	display:flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .slide_area .titbox{
@@ -223,6 +234,7 @@
 }
 
 .area_02 h2{
+	color: #fe4b71;
 	font-size:44px;
 	line-height:1.3em;
 }
@@ -504,7 +516,9 @@
 .contact{
 	padding:100px 0 120px 0;
 	background:url("../img/bg02.gif");
-	margin:100px 0 0 0;
+	margin:100px auto 0;
+	display: flex;
+	justify-content: center;
 }
 
 .contact h2{

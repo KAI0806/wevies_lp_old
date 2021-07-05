@@ -288,6 +288,12 @@ footer .copy{
 	letter-spacing:0.1em;
 }
 
+.footer_logo{
+	width: 2%;
+	transform: translateY(2px);
+	margin-right: 5px;
+}
+
 @media screen and (max-width: 800px) {
 footer{
 	padding:25px 0 40px 0;

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475" height="535" viewBox="0 0 475 535">
+  <g id="グループ_70" data-name="グループ 70" transform="translate(-993 -3868)">
+    <g id="グループ_18" data-name="グループ 18" transform="translate(0 -116)">
+      <g id="長方形_48" data-name="長方形 48" transform="translate(993 3984)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="475" height="535" stroke="none"/>
+        <rect x="0.5" y="0.5" width="474" height="534" fill="none"/>
+      </g>
+    </g>
+    <g id="グループ_69" data-name="グループ 69">
+      <text id="メールフォーム費_50_000円" data-name="メールフォーム費：50,000円" transform="translate(1097 4176)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">メールフォーム費：50,000円</tspan></text>
+      <text id="ページ制作費_150_000円" data-name="ページ制作費：150,000円" transform="translate(1109 4209)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">ページ制作費：150,000円</tspan></text>
+      <text id="制作時にお支払い" transform="translate(1091 4009)" fill="#fe4b71" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">制作時</tspan><tspan y="0" font-size="30">に</tspan><tspan y="0" font-size="30" fill="#000">お支払い</tspan></text>
+      <g id="長方形_149" data-name="長方形 149" transform="translate(1157 3890)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="148" height="50" stroke="none"/>
+        <rect x="1" y="1" width="146" height="48" fill="none"/>
+      </g>
+      <text id="制作費" transform="translate(1186 3926)" font-size="30" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">制作費</tspan></text>
+      <text id="約25万円_必要" data-name="約25万円〜必要" transform="translate(1090 4075)" fill="#fe4b71" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">約25万円〜</tspan><tspan y="0" font-size="30" fill="#000">必要</tspan></text>
+      <text id="_5ページ制作の場合_" data-name="[5ページ制作の場合]" transform="translate(1132 4143)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">[5ページ制作の場合]</tspan></text>
+      <g id="楕円形_21" data-name="楕円形 21" transform="translate(1175 4268)" fill="none" stroke="red" stroke-width="20">
+        <circle cx="56" cy="56" r="56" stroke="none"/>
+        <circle cx="56" cy="56" r="46" fill="none"/>
+      </g>
+      <text id="成果物発生" transform="translate(1131 4339)" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">成果物発生</tspan></text>
+    </g>
+  </g>
+</svg>

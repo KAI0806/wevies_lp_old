@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="475" height="535" viewBox="0 0 475 535">
+  <g id="グループ_67" data-name="グループ 67" transform="translate(-453 -3868)">
+    <g id="グループ_68" data-name="グループ 68">
+      <g id="長方形_47" data-name="長方形 47" transform="translate(453 3868)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="475" height="535" stroke="none"/>
+        <rect x="0.5" y="0.5" width="474" height="534" fill="none"/>
+      </g>
+      <g id="グループ_66" data-name="グループ 66">
+        <g id="長方形_49" data-name="長方形 49" transform="translate(617 3891)" fill="#fff" stroke="#000" stroke-width="2">
+          <rect width="148" height="50" stroke="none"/>
+          <rect x="1" y="1" width="146" height="48" fill="none"/>
+        </g>
+        <text id="準備費" transform="translate(646 3926)" font-size="30" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">準備費</tspan></text>
+        <text id="依頼時にお支払い" transform="translate(555 4010)" fill="#fe4b71" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">依頼時</tspan><tspan y="0" font-size="30">に</tspan><tspan y="0" font-size="30" fill="#000">お支払い</tspan></text>
+        <text id="約25万円_必要" data-name="約25万円〜必要" transform="translate(554 4075)" fill="#fe4b71" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">約25万円〜</tspan><tspan y="0" fill="#969596" font-size="30">必要</tspan></text>
+        <text id="_5ページ制作の場合_" data-name="[5ページ制作の場合]" transform="translate(596 4143)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">[5ページ制作の場合]</tspan></text>
+        <text id="企画ディレクション費_100_000円_" data-name="企画ディレクション費：100,000円〜" transform="translate(526 4178)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">企画ディレクション費：100,000円〜</tspan></text>
+        <text id="下層のページデザイン費_50_000円_" data-name="下層のページデザイン費：50,000円〜" transform="translate(521 4248)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">下層のページデザイン費：50,000円〜</tspan></text>
+        <text id="TOPページデザイン費_100_000円_" data-name="TOPページデザイン費：100,000円〜" transform="translate(526 4213)" font-size="20" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">TOPページデザイン費：100,000円〜</tspan></text>
+        <g id="グループ_64" data-name="グループ 64" transform="translate(0 -14.5)">
+          <line id="線_17" data-name="線 17" x2="85" y2="86" transform="translate(648.5 4295.5)" fill="none" stroke="red" stroke-width="20"/>
+          <line id="線_18" data-name="線 18" x1="85" y2="86" transform="translate(648.5 4295.5)" fill="none" stroke="red" stroke-width="20"/>
+        </g>
+        <text id="成果物発生せず" transform="translate(551 4339)" font-size="40" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN"><tspan x="0" y="0">成果物発生せず</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

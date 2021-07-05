@@ -57,6 +57,17 @@ $(function() {
 	});
 });
 
+$(function() {
+	$('.anime5').on('inview', function(event, isInView, visiblePartX, visiblePartY) {
+		if(isInView){
+			$(this).addClass('a_5');
+    } /*else {
+      $(this).removeClass('a_3');
+    }*/
+		
+	});
+});
+
 
 
 $(function() {
