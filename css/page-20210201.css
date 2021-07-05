@@ -786,7 +786,7 @@ div#mfp_thanks {
 
 .area_01 .txtbox .txt02{
 	padding:30px 0;
-	font-size:24px;
+	font-size:20px;
 	font-weight:bold;
 	line-height:1.6em;
 }
@@ -914,7 +914,6 @@ div#mfp_thanks {
 
 .area_03 h2{
 	padding:35px 0;
-	width:300px;
 	margin:0 auto;
 	position:relative;
 	z-index:2;
@@ -980,7 +979,7 @@ div#mfp_thanks {
 }
 
 .area_03 .reqbox .txt{
-	font-size:24px;
+	font-size:23px;
 	padding:30px 0 0 0;
 	line-height:1.4em;
 }
@@ -991,7 +990,6 @@ div#mfp_thanks {
 
 .area_03 .pricebox .logo{
 	padding:40px 0 30px 0;
-	width:300px;
 	margin:0 auto;
 }
 
