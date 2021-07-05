@@ -1,0 +1,333 @@
+@charset "utf-8";
+
+
+/*medium*/
+@font-face {
+    font-family: '源柔ゴシック';
+    src: url("../font/GenJyuuGothic-Medium.ttf");
+    font-weight: 500;
+    font-style: normal;
+}
+/*bold*/
+@font-face {
+    font-family: '源柔ゴシック';
+    src: url("../font/GenJyuuGothic-Bold.ttf");
+    font-weight: 700;
+}
+
+body {
+    animation: fadeIn 2s ease 0s 1 normal;
+    -webkit-animation: fadeIn 2s ease 0s 1 normal;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}
+
+/* header
+-------------------------------------------------------------------*/
+header .box{
+	position:fixed;
+	width:100%;
+	min-width:1000px;
+	top:0;
+	left:0;
+	background:rgba(255,255,255,0.7);
+	padding:13px 0 10px 40px;
+	box-sizing:border-box;
+	z-index:999;
+}
+
+header ul{
+	max-width:1200px;
+	margin:0 auto;
+	position:relative;
+}
+
+header ul li{
+	display:inline-block;
+	vertical-align:middle;
+}
+
+header ul li .logo{
+	padding:3px 30px 0 0;
+}
+
+header ul li .btn{
+	position:absolute;
+	right:0;
+	top:-1px;
+}
+
+header ul li .btn a{
+	display:block;
+	width:370px;
+	background:url("../img/h_bg.jpg") no-repeat;
+	background-size:cover;
+	color:#fff;
+	padding:10px 0;
+	font-size:18px;
+	text-align:center;
+	border-radius:5px;
+}
+
+@media screen and (max-width: 800px) {
+header .box{
+	position:fixed;
+	width:100%;
+	min-width:100%;
+	top:0;
+	left:0;
+	background:rgba(255,255,255,0.7);
+	padding:0;
+	box-sizing:border-box;
+	z-index:999;
+	transition: all 0.3s;
+}
+
+header.hide .box{
+	transform: translateY(-100px);
+}
+
+header ul{
+	max-width:100%;
+	margin:0 auto;
+	position:relative;
+}
+
+header ul li{
+	display:block;
+	vertical-align:middle;
+}
+
+header ul li .logo{
+	display:none;
+}
+
+header ul li .btn{
+	position:static;
+}
+
+header ul li .btn a{
+	display:block;
+	width:100%;
+	background:url("../img/sp/h_bg.jpg") no-repeat;
+	color:#fff;
+	padding:10px;
+	font-size:16px;
+	text-align:center;
+	border-radius:0;
+}
+
+header ul li .face{
+	padding:5px;
+}
+}
+
+
+/* contents
+-------------------------------------------------------------------*/
+body {
+	overflow:hidden;
+}
+
+.thankspage{
+	overflow:auto;
+}
+
+body.block{
+	overflow:auto;
+}
+
+.wrap {
+	min-width:1024px;
+	overflow:hidden;
+	position:relative;
+}
+
+
+.contents{
+	clear:both;
+	position:relative;
+}
+
+.scale{
+	width:100%;
+	height:auto;
+}
+
+.sp{
+	display:none;
+}
+
+.left{
+	float:left;
+}
+
+.right{
+	float:right;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+}
+
+.wd{
+	width:1000px;
+	margin:0 auto;
+}
+
+@media screen and (max-width: 800px) {
+.wrap {
+	min-width:100%;
+	overflow:hidden;
+}
+
+.spleft{
+	float:left;
+}
+
+.spright{
+	float:right;
+}
+
+.spscale{
+	width:100%;
+	height:auto;
+}
+
+.contents{
+	overflow:hidden;
+	width:100%;
+	box-sizing:border-box;
+}
+
+.wd{
+	width:100%;
+	margin:0 auto;
+	box-sizing:border-box;
+}
+
+.spscale{
+	width:100%;
+	height:auto;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+	margin:0 auto;
+}
+
+.pc{
+	display:none;
+}
+
+.sp{
+	display:block;
+}
+
+.spleft{
+	float:left;
+}
+
+.spright{
+	float:right;
+}
+
+input{
+	font-size:16px;
+}
+
+}
+
+/* footer
+-------------------------------------------------------------------*/
+
+footer{
+	padding:25px 0 60px 0;
+	text-align:center;
+	background:#f9f7f4;
+}
+
+footer ul li{
+	display:inline-block;
+	padding:0 6px;
+}
+
+footer .tit{
+	font-size:20px;
+	font-weight:bold;
+	padding:20px 0 30px 0;
+}
+
+footer .tit a{
+	text-decoration:underline;
+}
+
+footer dl{
+	font-size:18px;
+	line-height:1.6em;
+}
+
+footer dl dt{
+	font-weight:bold;
+}
+
+footer .copy{
+	font-size:16px;
+	color:#969696;
+	padding:30px 0 0 0;
+	letter-spacing:0.1em;
+}
+
+@media screen and (max-width: 800px) {
+footer{
+	padding:25px 0 40px 0;
+	text-align:center;
+	background:#f9f7f4;
+}
+
+footer ul li{
+	display:inline-block;
+	padding:0 3px;
+}
+
+footer .tit{
+	font-size:16px;
+	font-weight:bold;
+	padding:20px 0 30px 0;
+}
+
+footer .tit a{
+	text-decoration:underline;
+}
+
+footer dl{
+	font-size:15px;
+	line-height:1.6em;
+}
+
+footer dl dt{
+	font-weight:bold;
+}
+
+footer dl dd{
+	font-size:14px;
+}
+
+footer .copy{
+	font-size:12px;
+	color:#969696;
+	padding:30px 0 0 0;
+	letter-spacing:0.1em;
+}
+}
+
