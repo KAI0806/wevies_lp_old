@@ -249,6 +249,7 @@ html{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
+	align-items: flex-end;
 }
 
 .area_02 ul li{
