@@ -705,7 +705,7 @@ div#mfp_thanks {
 .mv .formrun-embed{
 	width: 90%;
 	margin-left: 0;
-	margin: auto;
+	margin: 10px auto;
 	overflow: hidden;
 }
 
@@ -737,7 +737,7 @@ div#mfp_thanks {
 
 .mv{
 	position:relative;
-	padding:85px 0 0 0;
+	padding:85px 0 25px 0;
 	margin:0 auto;
 	background:url("../img/kv_bg.jpg") center center/cover no-repeat;
 }
