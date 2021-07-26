@@ -113,7 +113,7 @@ function ani2() {
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC7H5NT"
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC7H5NT"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 <!-- <div id="loading">
@@ -127,38 +127,37 @@ function ani2() {
 
 
 <header>
-<div class="box">
-<ul>
-<li>
-<p class="logo pc"><img src="img/logo_head.svg" alt="wevies"></p>
-</li>
-<li>
-<p class="btn"><a href="index.html#link" class="opacity">見積もり・デザイン案を無料依頼する</a></p>
-</li>
-<li>
-<div class="face">
-<div id="facebook-like"></div>
-<script>
-jQuery(function($){
+    <div class="box">
+        <ul>
+            <li>
+                <p class="logo pc"><img src="img/logo_head.svg" alt="wevies"></p>
+            </li>
+            <li>
+                <p class="btn"><a href="index.html#link" class="opacity">見積もり・デザイン案を無料依頼する</a></p>
+            </li>
+            <li class="pc">
+                <div class="face">
+                    <div id="facebook-like"></div>
+                    <script>
+                        jQuery(function($){
 
-  var fb_before ='<div class="fb-like" data-href="http://development.wevies.net/" data-layout="standard" data-action="recommend" data-size="large" data-show-faces="true" data-share="false" data-width="';
-  var fb_after = '"></div>';
+                        var fb_before ='<div class="fb-like" data-href="http://development.wevies.net/" data-layout="standard" data-action="recommend" data-size="large" data-show-faces="true" data-share="false" data-width="';
+                        var fb_after = '"></div>';
 
-if(window.matchMedia('(min-width:800px)').matches){
-  var width = '340';
-}else{
-  var windowWidth = $(window).width();
-  var width = windowWidth - 48;
-}
+                        if(window.matchMedia('(min-width:800px)').matches){
+                        var width = '340';
+                        }else{
+                        var windowWidth = $(window).width();
+                        var width = windowWidth - 48;
+                        }
 
-    $('#facebook-like').append(fb_before+width+fb_after);
-});
-</script>
-
-</div>
-</li>
-</ul>
-</div>
+                            $('#facebook-like').append(fb_before+width+fb_after);
+                        });
+                    </script>
+                </div>
+            </li>
+        </ul>
+    </div>
 </header>
 
 
