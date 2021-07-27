@@ -99,20 +99,24 @@ header ul li .btn a:hover {
 }
 
 @media screen and (max-width: 800px) {
-    header .box {
-        position: fixed;
-        width: 100%;
-        min-width: 100%;
-        top: 0;
-        left: 0;
+    header .box{
+        position:fixed;
+        width:100%;
+        min-width:100%;
+        bottom: 0;
+        top:unset;
+        left:0;
         background: white;
-        padding: 0;
-        box-sizing: border-box;
-        z-index: 999;
+        padding:0;
+        box-sizing:border-box;
+        z-index:999;
         transition: all 0.3s;
+        box-shadow: 0px -5px 10px rgb(0 0 0 / 40%);
+        transform: translateY(100px);
     }
-    header.hide .box {
-        transform: translateY(-100px);
+    
+    header.hide .box{
+        transform: translateY(0px);
     }
     header ul {
         max-width: 100%;
